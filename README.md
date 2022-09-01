@@ -1,7 +1,7 @@
 # Custom SPA (Single Page App) Plugin
 * Name: custom-spa-plugin
 * Version: 1.0.0
-* Kong Version: 2.3.3
+* Kong Version: 2.8.x
 
 The most up-to-date code can be found in the `develop` branch.
 
